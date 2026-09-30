@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "StudyFlow AI",
+    "slug": "studyflow-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0B0F1A"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.studyflow.ai"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0F1A"
+      },
+      "package": "com.studyflow.ai"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
